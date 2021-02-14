@@ -1,0 +1,40 @@
+[
+{"type":"header","version":"5.0.2","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"test"},
+{"type":"table","name":"darshan raval","database":"test","data":
+[
+{"id":"1","songname":"Ab Phirse Jab Baarish","url":"Ab%20Phirse%20Jab%20Baarish%20-%20Darshan%20Raval%20_%20Official%20Video%202016%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"2","songname":"Asal Mein","url":"Asal%20Mein%20-%20Darshan%20Raval%20_%20Official%20Video%20_%20Indie%20Music%20Label%20-%20Latest%20Hit%20song%202020%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"3","songname":"Baarish Lete Aana","url":"Baarish%20Lete%20Aana%20-%20Official%20Video%20_%20Darshan%20Raval%20_%20Indie%20Music%20Label%20(%20128kbps%20).m4a","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"4","songname":"Bhula Diya","url":"Bhula%20Diya%20-%20Darshan%20Raval%20_%20Official%20Video%20_%20Anurag%20Saikia%20_%20A.%20M.%20Turaz%20_%20Indie%20Music%20Label%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"5","songname":"Bhula Dunga","url":"Bhula%20Dunga%20-%20Darshan%20Raval%20_%20Official%20Video%20_%20Sidharth%20Shukla%20_%20Shehnaaz%20Gill%20_%20Indie%20Music%20Label%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"6","songname":"Bolna Reprise","url":"Bolna%20Reprise%20By%20Darshan%20Raval%20_%20Mtv%20Beats%20_%20Dil%20Beats%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,Reprise,"},
+{"id":"7","songname":"Chogada","url":"Chogada%20With%20Lyrics%20%20_%20Loveyatri%20_%20Aayush%20Sharma%20_%20Warina%20Hussain%20_%20Darshan%20Raval%2C%20Lijo-DJ%20Chetas%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"8","songname":"Dil Mera Blast","url":"Darshan%20Raval%20-%20Dil%20Mera%20Blast%20_%20Official%20Music%20Video%20_%20Javed%20-%20Mohsin%20_%20Lijo%20G%20_%20Indie%20Music%20Label%20(%20128kbps%20).m4a","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"9","songname":"Hawa Banke","url":"Darshan%20Raval%20-%20Hawa%20Banke%20_%20Official%20Music%20Video%20_%20Nirmaan%20_%20Indie%20Music%20Label%20.mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"10","songname":"Mera Dil Dil Dil","url":"Darshan%20Raval%20-%20Mera%20Dil%20Dil%20Dil%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"11","songname":"Tu Mileya","url":"Darshan%20Raval%20-%20Tu%20Mileya%20_%20Official%20Audio%20_%20Lijo%20George%20_%20Gaana%20Originals%20_%20Indie%20Music%20Label%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"12","songname":"Do Din","url":"Do%20Din%20-%20Darshan%20Raval%20_%20Akanksha%20Sharma%20_%20Latest%20Hits%202018%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"13","songname":"Ek Haseena Thi Ek Deewana Tha","url":"Ek%20Haseena%20Thi%20Ek%20Deewana%20Tha%20_%20New%20Hindi%20Songs%202017%20_%20Title%20Track%20_%20Music%20-%20Nadeem%20_%20Shiv%20Darshan%2C%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"14","songname":"Ishq Chadha Hai","url":"Ishq%20Chadha%20Hai%20_%20Darshan%20Raval%20_%20Official%20Video%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"15","songname":"Jeena Jeena Reprise","url":"Jeena%20Jeena%20_%20Badlapur%20_%20Darshan%20Raval%20_%20Reprised%20Version%20_%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,Reprise,"},
+{"id":"16","songname":"Kaash Aisa Hota","url":"Kaash%20Aisa%20Hota%20-%20Darshan%20Raval%20_%20Official%20Video%20_%20Indie%20Music%20Label%20_%20Latest%20Hit%20Song%202019%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"17","songname":"Kamariya","url":"Kamariya%20–%20Mitron_%20Jackky%20Bhagnani_%20Kritika%20Kamra_%20Darshan%20Raval%20_%20Lijo-DJ%20Chetas%20_%20Ikka%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"18","songname":"Mehrama","url":"Mehrama%20-%20Love%20Aaj%20Kal%20_%20Kartik%20_%20Sara%20_%20Pritam%20_%20Darshan%20Raval%20_%20Antara%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"19","songname":"Nayan Ne Bandh Rakhine","url":"Nayan%20Ne%20Bandh%20Rakhine%20-%20Darshan%20Raval%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"20","songname":"Odhani","url":"Odhani%20(From%20_Made%20in%20China_)%20(%20128kbps%20).m4a","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"21","songname":"Pehli Mohabbat","url":"Pehli%20Mohabbat%20Official%20full%20song%20by%20Darshan%20Raval%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"22","songname":"Saari Ki Saari 2.0","url":"Saari%20Ki%20Saari%202.0%20-%20Darshan%20Raval%20_%20Official%20Video%20_%20Asees%20Kaur%20_%20Lijo%20George%20_%20Indie%20Music%20Label_3qStEVyUrwc.mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"23","songname":"Shab Tum Ho","url":"Shab%20Tum%20Ho%20-%20Latest%20Hit%20Song%202018%20_%20Darshan%20Raval%20_%20Sayeed%20Quadri%20_%20Indie%20Music%20Label%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"24","songname":"Tera Zikr Reprise","url":"Tera%20Zikr%20-%20Reprise%20_%20Darshan%20Raval%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,Reprise,"},
+{"id":"25","songname":" Tujh Naav Tera Zikr Marathi Version","url":"Tera%20Zikr(Tujh%20Naav)%20__%20Marathi%20Version%20__%20Ashish%20Patil%20__%20Darshan%20Raval%20__%20Marathi%20Sad%20Song%20HD%202018%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,Marathi Version,"},
+{"id":"26","songname":"Tere Siva","url":"Tere%20Siva%20-%20Darshan%20Raval%20_%20Official%20Music%20Video%202016%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"27","songname":"Teri Meri Dosti ","url":"Teri%20Meri%20Dosti%20_%20Darshan%20Raval%20Latest%20Song%202017%20-%20Tu%20Jarurat%20Hai%20_%20Suyyash%20Rai%20_%20Darshan%20Raval%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"28","songname":"Tor Kotha Zikr Bengali Version","url":"Tor%20Kotha%20-%20Darshan%20Raval%20_%20Tera%20Zikr%20_%20Bengali%20Version%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,Bengali Version,"},
+{"id":"29","songname":"Tu Dua Hai","url":"Tu%20Dua%20Hai%20-%20Darshan%20Raval%20_%20Valentine's%20Day%20Special%20Song%202016%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"30","songname":"Tuu","url":"Tuu%20official%20(Audio%20Version)%20_%20Darshan%20Raval%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"31","songname":"Yaara Teri Yaari","url":"Yaara%20Teri%20Yaari%20Full%20Video%20Song%20by%20DARSHAN%20RAVAL%20_%20Four%20More%20Shots%20Please%202019%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"},
+{"id":"32","songname":"Ye Baarish","url":"Ye%20Baarish%20_%20Darshan%20Raval%20_%20Official%202017%20_%20Love%20Song%20(%20160kbps%20).mp3","singer":"Darshan Raval","tags":"Love , Sad , Editors Choice, Alone ,"}
+]
+}
+]
